@@ -30,3 +30,11 @@ Our driving management system is a comprehensive solution for organizations with
 ## Conclusion
 
 Our driving management system is a reliable and user-friendly tool for organizations with a fleet of vehicles. The system is designed to improve efficiency, reduce costs, and enhance safety, all while ensuring compliance with the regulations of the European Union.
+
+
+
+![image](https://user-images.githubusercontent.com/83727951/216855670-8df465ec-498d-4b23-813a-12ea8115d823.png)
+![image](https://user-images.githubusercontent.com/83727951/216855679-b402407a-58c5-4591-945c-c5a54ba09e64.png)
+![image](https://user-images.githubusercontent.com/83727951/216855695-8e599963-9364-495a-8fb3-89891289369a.png)
+![image](https://user-images.githubusercontent.com/83727951/216855709-297d4c4a-0cec-47ad-ab4c-f19e92501f4a.png)
+
